@@ -31,7 +31,11 @@ cc.Class({
         fail: {
             default:null,
             type:cc.Node
-        }
+        }，
+		dkjfls：{
+			default:null,
+			type:cc.node
+		}
     },
 
     onLoad() {
